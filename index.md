@@ -1,7 +1,5 @@
 # Aprendendo Markdown
 
-## H2
+## Adicionando uma imagem
 
-
-
-Testando markdown
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
